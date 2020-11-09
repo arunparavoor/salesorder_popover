@@ -16,7 +16,7 @@
     'data': [       
         'views/template_js.xml',
     ],
-    'images': ['static/description/banner.jpg'],
+    'images': ['static/description/banner.gif'],
     'installable': True,
     'auto_install': False,
 }
